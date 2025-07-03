@@ -1,0 +1,13 @@
+#python code for addition with input
+a=10
+b=20
+c=a+b
+print(c)
+
+#O/P: 30
+
+#Explanation
+#10 value is stored in "a"
+#20 value is stored in "b"
+#"c" variable contains the sum of a and b
+#prints the output
