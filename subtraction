@@ -1,0 +1,33 @@
+#python code for addition with input
+
+a=10
+b=10
+c=a-b
+print(c)
+
+#O/P: 
+#0
+
+#Explanation
+#10 value is stored in "a"
+#20 value is stored in "b"
+#"c" variable contains the sub of a and b
+#prints the output
+
+#python code for addition with user given input
+
+a=int(input())
+b=int(input())
+c=a-b
+print(c)
+
+#O/P: 
+#34
+#4
+#30
+
+#Explanation
+#user given integer value is stored in "a"
+#user given integer value is stored in "b"
+#"c" variable contains the sub of a and b
+#prints the output
