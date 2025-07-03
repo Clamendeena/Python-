@@ -1,0 +1,33 @@
+#python code for multiplication with inputs
+
+a=10
+b=20
+c=a*b
+print(c)
+
+#O/P: 
+#200
+
+#Explanation
+#10 value is stored in "a"
+#20 value is stored in "b"
+#"c" variable contains the mul of a and b
+#prints the output
+
+#python code for multiplication with user given inputs
+
+a=int(input())
+b=int(input())
+c=a*b
+print(c)
+
+#O/P: 
+#4
+#4
+#16
+
+#Explanation
+#user given integer value is stored in "a"
+#user given integer value is stored in "b"
+#"c" variable contains the mul of a and b
+#prints the output
