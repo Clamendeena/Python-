@@ -1,4 +1,4 @@
-#python code for addition with input
+#python code for subtraction with input
 
 a=10
 b=10
@@ -14,7 +14,7 @@ print(c)
 #"c" variable contains the sub of a and b
 #prints the output
 
-#python code for addition with user given input
+#python code for subtraction with user given inputs
 
 a=int(input())
 b=int(input())
